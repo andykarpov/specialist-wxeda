@@ -12,3 +12,7 @@ source/spec.pin
 source/spec.sof
 source/spec.sta.rpt
 source/spec.sta.summary
+source/db
+source/db/*
+source/greybox_tmp
+source/greybox_tmp/*
