@@ -1,0 +1,10 @@
+PLL_Name	altpll0:comb_3|altpll:altpll_component|altpll0_altpll:auto_generated|pll1
+PLLJITTER	31
+PLLSPEmax	84
+PLLSPEmin	-53
+
+PLL_Name	altpll1:comb_4|altpll:altpll_component|altpll1_altpll:auto_generated|pll1
+PLLJITTER	33
+PLLSPEmax	84
+PLLSPEmin	-53
+
