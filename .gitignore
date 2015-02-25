@@ -9,10 +9,14 @@ source/spec.map.rpt
 source/spec.map.smsg
 source/spec.map.summary
 source/spec.pin
-source/spec.sof
+#source/spec.sof
 source/spec.sta.rpt
 source/spec.sta.summary
 source/db
 source/db/*
 source/greybox_tmp
 source/greybox_tmp/*
+source/incremental_db
+source/incrementa_db/*
+source/spec.map
+source/spec.qws
